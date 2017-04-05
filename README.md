@@ -58,7 +58,7 @@
 
 ### 2017年4月5日 09:27:16
 
-> #### 逻辑查询处理阶段简介
+> #### [逻辑查询处理阶段简介](http://www.cnblogs.com/qanholas/archive/2010/10/24/1859924.html)
 ****
 > 1. __FROM__：对FROM子句中的前两个表执行笛卡尔积（Cartesian product)(交叉联接），生成虚拟表VT1
 > 2. __ON__：对VT1应用ON筛选器。只有那些使`<join_condition>`为真的行才被插入VT2。
